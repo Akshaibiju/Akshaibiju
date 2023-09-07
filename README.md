@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshaibiju
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 12th class computer science
+- 🌱 I’m currently learning BE computer science and engneering 
 - 💞️ I’m looking to collaborate with Developer's 
 - 📫 How to reach me gurut880@gmail.com 
 
